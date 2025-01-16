@@ -16,4 +16,4 @@ To install:
 
 
 
-To replicate python testing for the RMIT assignment, run the test_coco.py file in the PythonAPI folder
+To replicate python testing for the RMIT assignment, run the test_coco.py file in the PythonAPI folder. The Hash test is in the HashTest folder
